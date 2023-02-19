@@ -1,0 +1,38 @@
+/* ESTRUCTURA PRINCIPAL*/
+.tarea-formulario{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    filter: drop-shadow( 2px 2px 2px #000);
+}
+
+/* CAMPO DE TEXTO*/
+.tarea-input {
+    width: 350px;
+    font-size: 18px;
+    background-color: #fff;
+    padding: 14px 32px 14px 16px;
+    border-radius: 4px 0 0 4px;
+    border: 3px solid #000;
+    outline: none;
+}
+
+.tarea-input::placeholder{
+    color: #000;
+    filter: drop-shadow( 1px 1px 1px #000);
+}
+
+/* BOTON AGREGAR TAREA */
+.tarea-boton {
+    padding: 16px;
+    font-size: 18px;
+    font-family: Roboto, sans-serif;
+    border-radius: 0 4x 4px 0;
+    cursor: pointer;
+    outline:none;
+    background: #000;
+    color: crimson;
+    text-transform: capitalize;
+    filter: drop-shadow( 2px 2px 2px crimson);
+}
