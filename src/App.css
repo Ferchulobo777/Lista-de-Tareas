@@ -208,6 +208,18 @@ h1{
 
 }
 @media screen and (max-width: 480px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html,
+  body {
+    color:#fff;
+    background-color: crimson;
+    font-family: Lato, sans-serif;
+    margin-top: 40px;
+  }
   h1{
     color: #000;
     font-size: 25px;
@@ -284,6 +296,18 @@ h1{
 
 }
 @media screen and (max-width: 450px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html,
+  body {
+    color:#fff;
+    background-color: crimson;
+    font-family: Lato, sans-serif;
+    margin-top: 40px;
+  }
   h1{
     color: #000;
     font-size: 25px;
@@ -360,6 +384,18 @@ h1{
 
 }
 @media screen and (max-width: 380px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html,
+  body {
+    color:#fff;
+    background-color: crimson;
+    font-family: Lato, sans-serif;
+    margin-top: 40px;
+  }
   h1{
     color: #000;
     font-size: 25px;
@@ -436,6 +472,18 @@ h1{
 
 }
 @media screen and (max-width: 350px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html,
+  body {
+    color:#fff;
+    background-color: crimson;
+    font-family: Lato, sans-serif;
+    margin-top: 40px;
+  }
   h1{
     color: #000;
     font-size: 25px;
@@ -512,6 +560,18 @@ h1{
 
 }
 @media screen and (max-width: 360px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html,
+  body {
+    color:#fff;
+    background-color: crimson;
+    font-family: Lato, sans-serif;
+    margin-top: 40px;
+  }
   h1{
     color: #000;
     font-size: 25px;
@@ -588,6 +648,18 @@ h1{
 
 }
 @media screen and (max-width: 320px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html,
+  body {
+    color:#fff;
+    background-color: crimson;
+    font-family: Lato, sans-serif;
+    margin-top: 40px;
+  }
   h1{
     color: #000;
     font-size: 25px;
