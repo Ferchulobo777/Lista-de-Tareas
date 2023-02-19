@@ -51,4 +51,6 @@
     color: #fff;
     text-decoration: line-through crimson;
     filter: drop-shadow( 2px 2px 2px crimson);
+    user-select: none;
+    outline: none;
 }
